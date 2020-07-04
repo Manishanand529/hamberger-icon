@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dashboard">dashboard</string>
+    <string name="rose" />
+    <string name="marigold">marigold</string>
+    <string name="lotus">lotus</string>
+    <string name="tulips">tulips</string>
+    <string name="favourites">favourites</string>
+    <string name="profile">profile</string>
+    <string name="AboutApp">AboutApp</string>
+    <string name="Open_Drawer">Open Drawer</string>
+    <string name="Close_Drawer">Close Drawer</string>
+</resources>
